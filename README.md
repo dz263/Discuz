@@ -1,2 +1,2 @@
 # Discuz
-Discuz tmeplate
+Discuz! 模板设计中...
